@@ -8,15 +8,9 @@
 
 <!-- 2. BANNIÈRE ANIMÉE ROSE / VIOLET -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30,34&height=200&section=header&text=YOUSRA%20MSAOURI&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,32,35&height=200&section=header&text=YOUSRA%20MSAOURI%20CHARROUD&fontSize=38&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
 
-<!-- 3. BADGES EN ROSE / PURPLE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousraMsaouri&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yousraMsaouri?label=Followers&style=flat-square&color=e056fd" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yousraMsaouri?label=Stars&style=flat-square&color=ff7979" alt="Stars" />
-</p>
 
 <!-- 3. BADGES DE STATISTIQUES -->
 <p align="center">
