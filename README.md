@@ -32,7 +32,7 @@ passions: ["AI Innovation", "Predictive Modeling", "Big Data", "Continuous Learn
 contact: "yousramsaouri13@gmail.com"
 ```
 
-* 🔭 Je travaille actuellement en tant que **Data & AI Engineer / Data Scientist**
+* 🔭 Je suis actuellement ingénieur d'Etat en **Big Data, AI & Data Sciences**
 * 🌱 J'apprends continuellement sur les **LLMs, RAG Pipelines & Multi-Agent Systems**
 * 👯 Je cherche à collaborer sur des projets open-source axés sur **l'IA, le Machine Learning et la Data**
 * 💬 Posez-moi des questions sur **le Machine Learning, la Data Science, Python, ou les systèmes IA**
@@ -88,3 +88,44 @@ contact: "yousramsaouri13@gmail.com"
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+<!-- 1. CONTRIBUTION SNAKE (ANIMATION DU SERPENT) -->
+<h3 align="center">📈 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yousraMsaouri/yousraMsaouri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<!-- 2. CONNECT WITH ME -->
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousra-msaouri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yousramsaouri13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- 3. RANDOM DEV QUOTE -->
+<h3 align="center">💡 Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+</p>
+
+---
+
+<!-- 4. FOOTER ANIMÉ ROSE ET SIGNATURE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30,34&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>Made with 💖 by <a href="https://github.com/yousraMsaouri">yousraMsaouriCharroud</a></i>
+</p>
