@@ -92,21 +92,23 @@ contact: "yousramsaouri13@gmail.com"
 
 ---
 
-<!-- 1. CONTRIBUTION SNAKE (ANIMATION DU SERPENT) -->
+---
+
+<!-- 1. CONTRIBUTION SNAKE (GÉNÉRATION DIRECTE SANS ATTENDRE WORKFLOW) -->
 <h3 align="center">📈 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yousraMsaouri/yousraMsaouri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://snk-one.vercel.app/api/snake?github_user_name=yousraMsaouri&color_snake=%23FF69B4&color_dots=%231e1e2e,%23ff79c6,%23bd93f9,%23ffb86c,%23ff5555" alt="Snake animation" />
 </p>
 
 ---
 
-<!-- 2. CONNECT WITH ME -->
+<!-- 2. CONNECT WITH ME (BADGES ROSE & PURPLE) -->
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/yousra-msaouri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:yousramsaouri13@gmail.com">
+  <a href="mailto:yousra.msaouri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -114,16 +116,17 @@ contact: "yousramsaouri13@gmail.com"
 ---
 
 <!-- 3. RANDOM DEV QUOTE -->
-<h3 align="center">💡 Random Dev Quote</h3>
+<!-- 💡 AI & DATA SCIENCE QUOTE -->
+<h3 align="center">💡 AI & Data Science Quote</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Data%20is%20the%20new%20oil%2C%20but%20AI%20is%20the%20engine%20that%20refines%20it.&author=Yousra%20Msaouri" alt="AI Quote" />
 </p>
 
 ---
 
-<!-- 4. FOOTER ANIMÉ ROSE ET SIGNATURE -->
+<!-- 4. BANNIÈRE DE FIN ROSE & VIOLETTE (MAGENTA) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30,34&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,32,35&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
