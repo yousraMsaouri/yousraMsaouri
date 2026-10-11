@@ -22,7 +22,8 @@
 
 ---
 
-### 🧠🧑‍💻🌸 About Me
+
+<h3 align="center">🧠🧑‍💻🌸 About Me</h3>
 
 ```yaml
 name: "Yousra Msaouri Charroud"
@@ -42,7 +43,7 @@ contact: "yousramsaouri13@gmail.com"
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -93,8 +94,7 @@ contact: "yousramsaouri13@gmail.com"
 
 
 ---
-🐍 Contribution Snake
-
+<h3 align="center">🐍 Contribution Snake</h3>
 <!-- 1. CONTRIBUTION SNAKE (GÉNÉRATION DIRECTE SANS ATTENDRE WORKFLOW) -->
 ![snake gif](https://github.com/yousraMsaouri/yousraMsaouri/blob/output/github-snake-dark.svg)
 
