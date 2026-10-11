@@ -93,8 +93,7 @@ contact: "yousramsaouri13@gmail.com"
 
 
 ---
-
----
+🐍 Contribution Snake
 
 <!-- 1. CONTRIBUTION SNAKE (GÉNÉRATION DIRECTE SANS ATTENDRE WORKFLOW) -->
 ![snake gif](https://github.com/yousraMsaouri/yousraMsaouri/blob/output/github-snake-dark.svg)
