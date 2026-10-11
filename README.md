@@ -97,17 +97,13 @@ contact: "yousramsaouri13@gmail.com"
 ---
 
 <!-- 1. CONTRIBUTION SNAKE (GÉNÉRATION DIRECTE SANS ATTENDRE WORKFLOW) -->
-<h3 align="center">📈 Contribution Snake</h3>
-<p align="center">
-  <img src="https://snk-one.vercel.app/api/snake?github_user_name=yousraMsaouri&color_snake=%23FF69B4&color_dots=%231e1e2e,%23ff79c6,%23bd93f9,%23ffb86c,%23ff5555" alt="Snake animation" />
-</p>
 
 ---
 
 <!-- 2. CONNECT WITH ME (BADGES ROSE & PURPLE) -->
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousra-msaouri/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousra-msaouri-b7a519200/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yousra.msaouri@gmail.com">
