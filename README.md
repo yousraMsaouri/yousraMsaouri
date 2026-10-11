@@ -1,6 +1,6 @@
 
 <!-- 1. TEXTE DYNAMIQUE ORIENTÉ DATA & IA -->
-<!-- 1. TEXTE DYNAMIQUE ORIENTÉ DATA & IA -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi!+I'm+Yousra+Msaouri+Charroud;Data+%26+AI+Engineer;Machine+Learning+%26+Data+Science;Building+Smart+AI+Systems+%26+LLMs" alt="Typing SVG" />
@@ -97,6 +97,7 @@ contact: "yousramsaouri13@gmail.com"
 ---
 
 <!-- 1. CONTRIBUTION SNAKE (GÉNÉRATION DIRECTE SANS ATTENDRE WORKFLOW) -->
+![snake gif](https://github.com/yousraMsaouri/yousraMsaouri/blob/output/github-snake-dark.svg)
 
 ---
 
